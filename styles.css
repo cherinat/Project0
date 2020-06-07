@@ -1,0 +1,23 @@
+.h1 {
+  background-color: green;
+}
+
+.ol {
+  font-family: monospace;
+  font-size: 14;
+}
+.h2 {
+  background-color: grey;
+}
+
+.placeholder {
+  background-color: blue;
+}
+
+.anotherclass {
+  background-color: lightgreen;
+}
+.img {
+  width: 60px;
+  height: 60px;
+}
